@@ -1,0 +1,122 @@
+body{
+    background-color:azure;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+div{
+    border: 1px solid black;
+    padding:10px;
+    margin-right: 0;
+    background-color:rgb(243, 240, 240);
+}
+.titulo1{
+    background-color:red;
+    color:white;
+}
+.Gijon::first-letter{
+    font-size: 50px;
+}
+
+img{
+    padding:10px;
+    border:2px solid white;
+    float:right
+}
+img.img1{
+    width: 220px;
+    height: 200px;
+}
+img.img2{
+    height:200px;
+}
+img.img3{
+    width:220px;
+    height:200px;
+}
+img.img4{
+    height:106px;
+    width:65px;
+    float:left;
+    border:2px solid red;
+    padding:0px;
+}
+.left{
+    margin:5px;
+    float:left;
+    padding:10px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:40px;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    margin:auto;
+    border-collapse:collapse;
+    width: 80%;
+    border:solid 1px blue;
+}
+td.tfoot{
+    text-align: center;
+    font-style: italic;
+    font-size: 0,85em;
+    background-color:cornflowerblue;
+    color:black;
+}
+td{
+    padding:0,25em;
+    text-align:center;
+    font-size:smaller;
+    
+}
+th{
+    border-collapse:collapse;
+    border:solid 1px brown;
+    padding:0,5em;
+    color:black;
+    text-align: left;
+    background-color: rgb(216, 212, 212);
+}
+th.titulo{
+text-align:center;
+}
+td.color1{
+    background-color:#FF6400;
+}
+td.color2{
+    background-color:#FF1400;
+}
+td.color3{
+    background-color: burlywood;
+}
+td.color4{
+    background-color: rgb(34, 34, 252);
+}
+td.color5{
+    background-color: rgb(151, 151, 248);
+}
+
+table.leyenda{
+    width:30%;
+}
+
+table.leyenda{
+    border:2px solid black;
+}
+td.color2Leyenda{
+    width:20px;
+}
+td.textoLeyenda{
+    padding-left:10px;
+    text-align: left;
+}
